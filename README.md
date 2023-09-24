@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessie Yu (@Jessie-JY2728)
-- 👀 I’m interested in database, web development, automation, and problem solving in general.
+- 👀 I’m interested in software backend, database, web development, automation, and problem solving in general.
 - 🌱 I’m currently learning DevOps, Realtime Data Analytics, and GPU
 - 💞️ I’m looking for fulltime SDE roles
 - 📫 How to reach me
